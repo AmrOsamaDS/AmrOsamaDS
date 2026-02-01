@@ -20,10 +20,10 @@
 ---
 
 ## 👋 About Me
-I'm **Amr Osama**, a **Data Scientist, BI Specialist & Power Platform Developer**.  
-I deliver **end-to-end business solutions** combining **Data Science, Power BI dashboards, Excel analytics, and automation workflows**.  
-
-My work focuses on **real business impact**, integrating **ML models, data visualization, and process automation**.
+Data Scientist | MSc Researcher | Microsoft Power Platform Specialist
+I am a results-driven Data Scientist and MSc Researcher dedicated to transforming complex datasets into actionable business intelligence.
+My expertise lies at the intersection of Machine Learning, Data Analytics, and Business Automation,
+where I bridge the gap between academic research and real-world industrial solutions
 
 ## 🛠️ Skills & Tools
 
@@ -47,12 +47,14 @@ My work focuses on **real business impact**, integrating **ML models, data visua
 
 
 
-## 📊 Workflow
-1. **Data Collection & Cleaning** – Excel, SQL, Power Query  
-2. **Data Analysis & Visualization** – Power BI, Python, Excel Dashboards  
-3. **Machine Learning** – Regression, Classification, Feature Engineering, Model Evaluation  
-4. **Automation & Deployment** – Power Automate, Power Apps integration, Dashboard Refresh  
-5. **End-to-End Business Solutions** – BI + ML + Automation  
+## 🚀 What I Do
+- Data Science & Analytics: I build robust predictive models using Python (Pandas, Scikit-Learn) and SQL, focusing on supervised/unsupervised learning and statistical modeling.
+
+- Business Intelligence (BI): I design interactive, high-impact dashboards in Power BI (Advanced DAX) to help organizations like Northern Border University drive data-informed decisions.
+
+- Workflow Automation: I specialize in the Microsoft Power Platform (Power Apps & Automate), creating end-to-end paperless systems that optimize administrative workflows.
+
+- Custom Tool Development: I have extensive experience in Excel VBA/Macros, developing specialized management software for SMEs, such as the automated client system for Muroden. 
 
 ---
 
@@ -63,6 +65,12 @@ My work focuses on **real business impact**, integrating **ML models, data visua
 - Delivered freelance projects via **Mostaql**, portfolio available  
 
 ---
+## 📈 Highlighted Projects
+- [NBU Institutional BI Dashboard]: Unified academic KPIs into a centralized Power BI system for university leadership.
+
+- [Automated Student Excuse System]: Built a complete digital ecosystem for Northern Border University using the Power Platform.
+
+- [Muroden Client Management]: Engineered a high-performance Excel VBA tool for automated data entry and advanced multi-criteria search.
 
 ## 📫 Contact Me
 - LinkedIn: [Amr Osama](https://www.linkedin.com/in/amr-osama-el-sayed)  
@@ -78,7 +86,15 @@ My work focuses on **real business impact**, integrating **ML models, data visua
 
 <details>
   <summary>Fun Fact & Interests 😄</summary>
-  - Exploring **Power Platform & ML techniques**  
-  - Building **dashboards, automated workflows, and end-to-end ML solutions**  
-  - Optimizing **business processes & generating actionable insights**
+Objective: To transform manual workflows into automated, data-driven systems that enhance institutional efficiency.
+
+
+
+- Data Science: Python (Pandas, Scikit-Learn), SQL, and Machine Learning modeling.
+
+- BI & Analytics: Advanced Power BI (DAX), Data Mining, and interactive dashboards.
+
+- Automation: Power Platform (Power Apps & Automate), SharePoint, and Excel VBA.
+
+- Vision: Leading digital transformation by bridging the gap between academic research and real-world business solutions.
 </details>
