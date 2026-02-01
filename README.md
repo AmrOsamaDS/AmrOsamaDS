@@ -76,7 +76,7 @@ where I bridge the gap between academic research and real-world industrial solut
 - LinkedIn: [Amr Osama](https://www.linkedin.com/in/amr-osama-el-sayed)  
 - Freelance Profile: [Mostaql](https://mostaql.com/u/Amr_Osama_EL)  
 - Portfolio: [Mostaql Portfolio](https://mostaql.com/u/Amr_Osama_EL/portfolio)  
-- GitHub: [AmrOsama](https://github.com/AmrOsama)  
+- GitHub: [AmrOsama](https://github.com/AmrOsamaDS)  
 
 ---
 
