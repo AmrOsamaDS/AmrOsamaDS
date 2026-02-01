@@ -1,7 +1,7 @@
 <div align="center" width="50%">
 
 <!-- Animated GIFs -->
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace"  width="40%"/><br> 
 
 <details>
 <p><strong> <summary> Busy coding & vibing to: </summary> </strong></p>
