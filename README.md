@@ -21,9 +21,8 @@
 
 ## 👋 About Me
 Data Scientist | MSc Researcher | Microsoft Power Platform Specialist
-I am a results-driven Data Scientist and MSc Researcher dedicated to transforming complex datasets into actionable business intelligence.
-My expertise lies at the intersection of Machine Learning, Data Analytics, and Business Automation,
-where I bridge the gap between academic research and real-world industrial solutions
+
+I am a results-driven Data Scientist and MSc Researcher dedicated to transforming complex datasets into actionable business intelligence. Building on a strong academic background in Computer Science and Artificial Intelligence and backed by extensive expertise in Statistical Analysis, I bridge the gap between rigorous research and industrial solutions. My work focuses on the intersection of Machine Learning, Data Analytics, and Business Automation to deliver precise, data-led impact.
 
 ## 🛠️ Skills & Tools
 
